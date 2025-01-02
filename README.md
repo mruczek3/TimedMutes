@@ -4,7 +4,7 @@ Welcome to the **TimedMutes** plugin! 🎉
 
 <div align="center">
 <a href="https://github.com/mruczek3/TimedMutes/releases"><img src="https://img.shields.io/github/downloads/mruczek3/TimedMutes/total?style=for-the-badge&logo=githubactions&label=Downloads" alt="GitHub Release Download"></a> 
-<a href="https://github.com/mruczek3/TimedMutes/releases"><img src="https://img.shields.io/badge/Build-1.0.0-brightgreen?style=for-the-badge&logo=gitbook" alt="GitHub Releases"></a>
+<a href="https://github.com/mruczek3/TimedMutes/releases"><img src="https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge&logo=gitbook" alt="GitHub Releases"></a>
 </div>
 
 ## **About TimedMutes**  
