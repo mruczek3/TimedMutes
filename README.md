@@ -42,7 +42,7 @@ Welcome to the **TimedMutes** plugin! 🎉
 3. Restart your server to load the plugin.  
 
 ### **Dependencies**  
-- **Exiled Framework**: [Download here](https://github.com/Exiled-Team/EXILED/releases)  
+- **Exiled Framework**: [Download here](https://github.com/ExMod-Team/EXILED/releases)  
 - **Newtonsoft.Json**: [Download here](https://github.com/JamesNK/Newtonsoft.Json/releases)  
 
 ---
