@@ -2,6 +2,11 @@
 
 Welcome to the **TimedMutes** plugin! 🎉  
 
+<div align="center">
+<a href="https://github.com/mruczek3/TimedMutes/releases"><img src="https://img.shields.io/github/downloads/mruczek3/TimedMutes/total?style=for-the-badge&logo=githubactions&label=Downloads" alt="GitHub Release Download"></a> 
+<a href="https://github.com/mruczek3/TimedMutes/releases"><img src="https://img.shields.io/badge/Build-1.0.0-brightgreen?style=for-the-badge&logo=gitbook" alt="GitHub Releases"></a>
+</div>
+
 ## **About TimedMutes**  
 **TimedMutes** is a exiled plugin for SCP:SL servers. It empowers administrators with the ability to temporarily mute disruptive players for a specified duration. With built-in Discord logging and seamless server integration, this plugin ensures smooth moderation and enhanced gameplay experiences.
 
@@ -14,7 +19,7 @@ Welcome to the **TimedMutes** plugin! 🎉
 - 📜 **Discord Logs:** Automatic logging of mute actions to Discord with clear and professional embeds.  
 
   Example of a Discord log:  
-  ![Discord Log](https://i.imgur.com/CfFRD9G.png)  
+  ![Discord Log](https://media.discordapp.net/attachments/1203686323802873866/1324402934972416140/image.png?ex=677805d9&is=6776b459&hm=e706dfe0a115daead63f5c50bc64dace6d5e59e6da5827a0f24910188d2956b9&=&format=webp&quality=lossless&width=400&height=271)  
 
 ---
 
@@ -32,7 +37,7 @@ Welcome to the **TimedMutes** plugin! 🎉
 
 ## **Installation Instructions**  
 
-1. Download the latest version of **TMutes.dll** from the [Releases](#).  
+1. Download the latest version of **TMutes.dll** from the [Releases](https://github.com/mruczek3/TimedMutes/releases).  
 2. Place the file in your `Exiled/Plugins` folder.  
 3. Restart your server to load the plugin.  
 
@@ -42,7 +47,4 @@ Welcome to the **TimedMutes** plugin! 🎉
 
 ---
 
-## **Downloads**  
-![Downloads](https://img.shields.io/github/downloads/mruczek3/TimedMutes/total?style=for-the-badge)  
-
-Thank you for using **TimedMutes**— <3 
+Thank you for using **TimedMutes**— <3
