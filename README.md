@@ -19,7 +19,7 @@ Welcome to the **TimedMutes** plugin! 🎉
 - 📜 **Discord Logs:** Automatic logging of mute actions to Discord with clear and professional embeds.  
 
   Example of a Discord log:  
-  ![Discord Log](https://media.discordapp.net/attachments/1203686323802873866/1324402934972416140/image.png?ex=677805d9&is=6776b459&hm=e706dfe0a115daead63f5c50bc64dace6d5e59e6da5827a0f24910188d2956b9&=&format=webp&quality=lossless&width=400&height=271)  
+  ![Discord Log](https://media.discordapp.net/attachments/1203686323802873866/1366503559582974032/image.png?ex=68112f1d&is=680fdd9d&hm=a12aa2116ef2b452e9ba93ab2f11670dd01b0572c663d50f2dd2f2f5a4540d79&=&format=webp&quality=lossless&width=539&height=321)  
 
 ---
 
